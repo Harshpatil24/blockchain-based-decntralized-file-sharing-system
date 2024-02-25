@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.4",
+    "react-scripts": "^5.0.1"
+  },
+  "dependencies": {
+    "create-react-app": "^5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  }
+}
